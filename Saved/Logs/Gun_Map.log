@@ -7395,3 +7395,126 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.20-14.04.20:294][615]LogHttp: Warning: 00000B6A8C832800: libcurl info message cache 3 (Failed to connect to 127.0.0.1 port 7890 after 2044 ms: Connection refused)
 [2023.08.20-14.04.20:294][615]LogHttp: Warning: 00000B6A8C832800: libcurl info message cache 4 (Closing connection 194)
 [2023.08.20-14.04.20:295][615]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BD1700-44AB-CB70-D649-C4B453FB4A54%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1e327d7e43919a5503ec84b7f69bed09%7C49701cf5dab44f4c80b3882402ebbbd8%7C3adc7f35-ce3e-49ef-b135-5cfdd376ee60&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BD1700-44AB-CB70-D649-C4B453FB4A54%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1e327d7e43919a5503ec84b7f69bed09%7C49701cf5dab44f4c80b3882402ebbbd8%7C3adc7f35-ce3e-49ef-b135-5cfdd376ee60&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: libcurl info message cache 2 (connect to 127.0.0.1 port 7890 failed: Connection refused)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: libcurl info message cache 3 (Failed to connect to 127.0.0.1 port 7890 after 2043 ms: Connection refused)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: 00000B6A8C835F00: libcurl info message cache 4 (Closing connection 195)
+[2023.08.20-14.05.20:301][795]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BD1700-44AB-CB70-D649-C4B453FB4A54%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1e327d7e43919a5503ec84b7f69bed09%7C49701cf5dab44f4c80b3882402ebbbd8%7C3adc7f35-ce3e-49ef-b135-5cfdd376ee60&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BD1700-44AB-CB70-D649-C4B453FB4A54%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1e327d7e43919a5503ec84b7f69bed09%7C49701cf5dab44f4c80b3882402ebbbd8%7C3adc7f35-ce3e-49ef-b135-5cfdd376ee60&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: libcurl info message cache 2 (connect to 127.0.0.1 port 7890 failed: Connection refused)
+[2023.08.20-14.06.20:305][975]LogHttp: Warning: 00000B6A8C836400: libcurl info message cache 3 (Failed to connect to 127.0.0.1 port 7890 after 2048 ms: Connection refused)
+[2023.08.20-14.06.20:306][975]LogHttp: Warning: 00000B6A8C836400: libcurl info message cache 4 (Closing connection 196)
+[2023.08.20-14.06.20:306][975]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0BD1700-44AB-CB70-D649-C4B453FB4A54%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1e327d7e43919a5503ec84b7f69bed09%7C49701cf5dab44f4c80b3882402ebbbd8%7C3adc7f35-ce3e-49ef-b135-5cfdd376ee60&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: ================================================
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Total job queries 7827, among them cache hits 6077 (77.64%)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Tracking 1749 distinct input hashes that result in 995 distinct outputs (56.89%)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: RAM used: 11.43 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.70%
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Shaders Compiled: 1647
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Jobs assigned 1647, completed 1647 (100.00%)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Average time worker was idle: 100.08 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.82 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 3.37 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 3.37
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 205.84 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Jobs were issued in 1647 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Average processing rate: 8.00 jobs/sec
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Total thread time: 697.20 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Total thread preprocess time: 37.19 s
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Percentage time preprocessing: 5.33%
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Effective parallelization: 3.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 0.86 sec, max 0.94 sec, min 0.72 sec)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   22 times, average 0.68 sec, max 0.73 sec, min 0.58 sec)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   22 times, average 0.67 sec, max 0.76 sec, min 0.58 sec)
+[2023.08.20-14.08.22:894][480]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   22 times, average 0.67 sec, max 0.73 sec, min 0.58 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   22 times, average 0.65 sec, max 0.71 sec, min 0.52 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.34% of total time (compiled  207 times, average 0.58 sec, max 0.84 sec, min 0.31 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.72% of total time (compiled  210 times, average 0.46 sec, max 0.68 sec, min 0.33 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.99% of total time (compiled  150 times, average 0.42 sec, max 0.60 sec, min 0.21 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.96% of total time (compiled  150 times, average 0.42 sec, max 0.61 sec, min 0.32 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 6.04% of total time (compiled   82 times, average 0.51 sec, max 0.61 sec, min 0.47 sec)
+[2023.08.20-14.08.22:895][480]LogShaderCompilers: Display: ================================================
+[2023.08.20-14.08.26:907][942]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/FX_Gun/Pat2/NS_FaZhen.NS_FaZhen
+[2023.08.20-14.08.27:597][942]LogNiagara: Compiling System NiagaraSystem /Game/FX_Gun/Pat2/NS_FaZhen.NS_FaZhen took 0.035281 sec, no shader worker used.
+[2023.08.20-14.08.28:149][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.20-14.08.28:439][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.20-14.08.28:897][942]LogViewport: Scene viewport resized to 391x553, mode Windowed.
+[2023.08.20-14.08.28:953][942]LogSlate: Took 0.025361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.20-14.08.29:598][950]46395_NS_FaZhen_MessageLog: System已成功编译。
+[2023.08.20-14.08.52:865][499]LogDebuggerCommands: Repeating last play command: 模拟
+[2023.08.20-14.08.53:085][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.20-14.08.53:152][499]PIE: New page: SIE会话：NewMap（2023年8月21日 上午6:08:53）
+[2023.08.20-14.08.53:257][499]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.08.20-14.08.53:274][499]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.20-14.08.53:296][499]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_NewMap
+[2023.08.20-14.08.53:436][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139421s)
+[2023.08.20-14.08.53:436][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/NewMap.NewMap to /Game/Map/UEDPIE_0_NewMap.NewMap (0.139736s)
+[2023.08.20-14.08.53:457][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.20-14.08.53:458][499]LogAIModule: Creating AISystem for world NewMap
+[2023.08.20-14.08.53:458][499]LogPlayLevel: PIE: World Init took: (0.021998s)
+[2023.08.20-14.08.53:490][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.20-14.08.53:524][499]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.20-14.08.53:524][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.20-14.08.53:524][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.20-14.08.53:524][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.20-14.08.53:524][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.20-14.08.53:524][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.20-14.08.53:576][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.20-14.08.53:615][499]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2023.08.20-14.08.53:615][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.20-14.08.53:615][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.20-14.08.53:615][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.20-14.08.53:616][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.08.20-14.08.53:616][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2023.08.20-14.08.53:617][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.08.20-14.08.53:617][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.08.20-14.08.53:617][499]LogInit: FAudioDevice initialized.
+[2023.08.20-14.08.53:617][499]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2023.08.20-14.08.53:703][499]LogLoad: Game class is 'GameModeBase'
+[2023.08.20-14.08.53:707][499]LogWorld: Bringing World /Game/Map/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.08.20-22.08.53
+[2023.08.20-14.08.53:738][499]LogWorld: Bringing up level for play took: 0.033911
+[2023.08.20-14.08.53:761][499]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.08.20-14.08.53:784][499]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.08.20-14.08.54:133][499]PIE: 登陆的服务器
+[2023.08.20-14.08.54:134][499]PIE: PIE总开始时间：1.26秒。
+[2023.08.20-14.10.20:097][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.20-14.10.20:101][719]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_NewMap
+[2023.08.20-14.10.20:147][719]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.20-14.10.20:194][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.20-14.10.20:320][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.20-14.10.20:330][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.20-14.10.20:364][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.20-14.10.20:421][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.20-14.10.20:422][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.20-14.10.20:749][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.20-14.10.20:780][720]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.08.20-14.10.25:951][ 27]LogSlate: Window '消息' being destroyed
+[2023.08.20-14.10.25:958][ 27]Message dialog closed, result: No, title: 消息, text: 是否将修改材质的变更应用到原材质？
+/Game/StarterContent/Props/Materials/M_StatueGlass.M_StatueGlass
+（选择“否”将丢失所有变更！）
+[2023.08.20-14.10.26:129][ 27]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.20-14.10.26:129][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.20-14.10.39:634][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.20-14.10.39:678][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/材质/NewMaterial_Inst" FILE="../../../../Project_TMP/Gun_Map/Content/材质/NewMaterial_Inst.uasset" SILENT=true
+[2023.08.20-14.10.39:709][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.20-14.10.39:719][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.20-14.10.39:721][302]LogSavePackage: Moving output files for package: /Game/材质/NewMaterial_Inst
+[2023.08.20-14.10.39:721][302]LogSavePackage: Moving '../../../../Project_TMP/Gun_Map/Saved/NewMaterial_InstFC5BC46246C2E82B1745C58B3B2A6C7F.tmp' to '../../../../Project_TMP/Gun_Map/Content/材质/NewMaterial_Inst.uasset'
+[2023.08.20-14.10.39:730][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 30.8 sec)
+[2023.08.20-14.10.39:733][302]AssetCheck: New page: 资产保存：NewMaterial_Inst
+[2023.08.20-14.10.39:733][302]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/材质/NewMaterial_Inst.NewMaterial_Inst
